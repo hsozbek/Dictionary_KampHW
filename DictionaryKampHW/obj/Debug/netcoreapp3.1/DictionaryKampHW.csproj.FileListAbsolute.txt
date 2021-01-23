@@ -1,0 +1,13 @@
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\bin\Debug\netcoreapp3.1\DictionaryKampHW.exe
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\bin\Debug\netcoreapp3.1\DictionaryKampHW.deps.json
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\bin\Debug\netcoreapp3.1\DictionaryKampHW.runtimeconfig.json
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\bin\Debug\netcoreapp3.1\DictionaryKampHW.runtimeconfig.dev.json
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\bin\Debug\netcoreapp3.1\DictionaryKampHW.dll
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\bin\Debug\netcoreapp3.1\DictionaryKampHW.pdb
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\obj\Debug\netcoreapp3.1\DictionaryKampHW.csprojAssemblyReference.cache
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\obj\Debug\netcoreapp3.1\DictionaryKampHW.AssemblyInfoInputs.cache
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\obj\Debug\netcoreapp3.1\DictionaryKampHW.AssemblyInfo.cs
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\obj\Debug\netcoreapp3.1\DictionaryKampHW.csproj.CoreCompileInputs.cache
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\obj\Debug\netcoreapp3.1\DictionaryKampHW.dll
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\obj\Debug\netcoreapp3.1\DictionaryKampHW.pdb
+C:\Users\hselc\source\repos\DictionaryKampHW\DictionaryKampHW\obj\Debug\netcoreapp3.1\DictionaryKampHW.genruntimeconfig.cache
